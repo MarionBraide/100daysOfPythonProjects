@@ -1,0 +1,5 @@
+print(input("Welcome to BandGen! Click 'Enter' to get started"))
+city = input("What city did you grow up in?: \n")
+pet = input("What is the name of your pet?: \n")
+band_name_gen = city + pet
+print("your band name is " + band_name_gen)
